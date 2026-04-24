@@ -1,0 +1,81 @@
+{
+    "0439381673": {
+        "title": "The Oregon Trail, 5th Edition",
+        "price": 24.99,
+        "stock": 15,
+        "category": "Software",
+        "features": [
+            "Classic educational game",
+            "Builds problem-solving skills",
+            "Works on older Windows OS"
+        ],
+        "rating": 4.8,
+        "reviews_count": 1240,
+        "platform": "Amazon",
+        "image_url": "https://m.media-amazon.com/images/I/91vMfw72ypL.jpg",
+        "product_url": "https://www.amazon.in/dp/0439381673"
+    },
+    "0615179088": {
+        "title": "Human Japanese",
+        "price": 19.99,
+        "stock": 120,
+        "category": "Software",
+        "features": [
+            "Teaches Japanese vocabulary and grammar",
+            "Interactive quizzes",
+            "Not compatible with Mac (Windows Only)"
+        ],
+        "rating": 4.6,
+        "reviews_count": 850,
+        "platform": "Amazon",
+        "image_url": "https://m.media-amazon.com/images/I/41c-0zepf2L.jpg",
+        "product_url": "https://www.amazon.in/dp/0615179088"
+    },
+    "0982583885": {
+        "title": "MATLAB and Simulink Student Version R2013a",
+        "price": 99.00,
+        "stock": 8,
+        "category": "Software",
+        "features": [
+            "Industry standard mathematical computation tool",
+            "Student license required",
+            "Compatible with Windows and Mac"
+        ],
+        "rating": 4.4,
+        "reviews_count": 320,
+        "platform": "Amazon",
+        "image_url": "https://m.media-amazon.com/images/I/812ms0ltM7L.jpg",
+        "product_url": "https://www.amazon.in/dp/0982583885"
+    },
+    "160717930X": {
+        "title": "Rosetta Stone French Level 1-5",
+        "price": 179.99,
+        "stock": 0,
+        "category": "Software",
+        "features": [
+            "Immersive French learning",
+            "Speech recognition technology",
+            "Audio companion CDs included"
+        ],
+        "rating": 4.2,
+        "reviews_count": 2100,
+        "platform": "Flipkart",
+        "image_url": "https://m.media-amazon.com/images/I/6158s7VaoGL.jpg",
+        "product_url": "https://www.flipkart.com/search?q=160717930X"
+    },
+    "B00004TFT1": {
+        "title": "Power Wheels 12-Volt Rechargeable Battery",
+        "price": 77.80,
+        "stock": 5,
+        "category": "Toys & Games",
+        "features": [
+            "12-Volt Rechargeable",
+            "Compatible with Power Wheels vehicles"
+        ],
+        "rating": 4.7,
+        "reviews_count": 11150,
+        "platform": "Amazon",
+        "image_url": "https://m.media-amazon.com/images/I/41-h0OMLYML._AC_SL300_.jpg",
+        "product_url": "https://www.amazon.com/dp/B00004TFT1"
+    }
+}

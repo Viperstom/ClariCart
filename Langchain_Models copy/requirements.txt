@@ -1,0 +1,40 @@
+# Langchain Core
+langchain
+langchain-Core
+
+langchain-community
+langchain-chroma
+chromadb
+#OpenAI integration
+langchain-openAI
+openAI
+
+langchain-anthropic
+
+langchain-google-genai
+google-generativeai
+
+
+#HuggingFce Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environemnt Variable Management
+python-dotenv
+
+#ML Utilities
+numpy
+pandas
+scikit-learn
+
+datasets
+streamlit
+torch
+sentence-transformers
+rouge-score
+beautifulsoup4
+duckduckgo-search
+ddgs
+psycopg2-binary
+sentence-transformers
